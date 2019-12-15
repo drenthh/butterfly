@@ -1,0 +1,19 @@
+body {
+	background-color: #FFC0CB;
+	margin: 0 auto;
+  	max-width: 600px;
+	font-family: 'Quicksand', sans-serif;
+}
+h1 {
+	color: #4f3d40;
+	padding: 10px;
+	font-family: 'Bowlby One SC', cursive;
+	font-size: 30pt;
+}
+div {
+	background-color: #ffeaed;
+	max-width: 300px;
+}
+p {
+	font: #292223;
+}
